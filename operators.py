@@ -1,11 +1,11 @@
-# x=10
-# y=3
-# print(f"Addition of x & y is {x+y}")
-# print(f"Substraction of x & y is {x-y}")
-# print(f"Multiplication of x & y is {x*y}")
-# print(f"Division of x & y is {x/y}")
-# print(f"Module Division  of x & y is {x%y}")
-# print(f"positive floor Division x & y is{x//y}")
+x=10
+y=3
+print(f"Addition of x & y is {x+y}")
+print(f"Substraction of x & y is {x-y}")
+print(f"Multiplication of x & y is {x*y}")
+print(f"Division of x & y is {x/y}")
+print(f"Module Division  of x & y is {x%y}")
+print(f"positive floor Division x & y is{x//y}")
 
 
 
@@ -48,14 +48,14 @@ print(not(num<15))
 # bitwise logical
 
 
-# a = 10 #0000 1010
-# b = 15 #0000 1111
-# print('~a =',~a)
-# print('a&b =',a&b)
-# print('a|b =',a|b)
-# print('a^b =',a^b)
-# print('a<<2 =',a<<2)
-# print('a>>2 =',a>>2)
+a = 10 #0000 1010
+b = 15 #0000 1111
+print('~a =',~a)
+print('a&b =',a&b)
+print('a|b =',a|b)
+print('a^b =',a^b)
+print('a<<2 =',a<<2)
+print('a>>2 =',a>>2)
 
 
 # in & not in
