@@ -1,7 +1,7 @@
 #Exanple for numeric type
-# num=10
-# print("num = ",num)
-# print(type(num))
+num=10
+print("num = ",num)
+#print(type(num))
 num=1.7
 print(f"num={num}")
 print(type(num))
@@ -39,12 +39,12 @@ a=True
 print(a)
 print(type(a))
 print(True+False)
-# range
-# range1=range(1,20)
-# print(range1)
-# print(type(range1))
-# for i in range1:
-#     print(i)
+range
+range1=range(1,20)
+print(range1)
+print(type(range1))
+for i in range1:
+    print(i)
 # step size
 range1=range(1,20)
 print(range1)
