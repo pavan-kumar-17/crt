@@ -12,7 +12,7 @@ for i in age:
             print(f"{i}----------->$15")
         else:
             print(f"{i}------------>$20")
-bank atm
+# bank atm
 pin=int(input("Enter the pin: "))
 acc_bal=0
 if pin==1703:
